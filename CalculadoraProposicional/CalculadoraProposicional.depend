@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586134673 source:c:\users\luisf\desktop\calculadoraproposicional\calculadoraproposicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
